@@ -29,6 +29,7 @@
   "scripts": {
     "dev": "node cli/index.js --help",
     "start": "node cli/index.js",
+    "list:patterns": "node cli/index.js list-patterns",
     "seed": "node patterns/seed.js",
     "lint": "eslint core cli scripts tests --ext .js",
     "test": "jest --coverage --forceExit",
