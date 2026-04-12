@@ -1,0 +1,21 @@
+{
+  "generation": {
+    "defaultFramework":  "express",
+    "defaultValidation": "joi",
+    "defaultAuth":       "jwt",
+    "defaultDb":         "mongodb",
+    "outputDir":         "generated"
+  },
+  "patternSelector": {
+    "topN":              5,
+    "minScore":          0.0
+  },
+  "dataset": {
+    "targetSize":        5000,
+    "maxSize":           50000
+  },
+  "logging": {
+    "level":             "info",
+    "pretty":            true
+  }
+}
