@@ -43,7 +43,7 @@
     "@babel/parser": "^7.23.6",
     "@babel/types": "^7.23.6",
     "commander": "^11.1.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.2",
     "pino": "^8.17.2",
     "pino-pretty": "^10.3.1",
     "prettier": "^3.1.1"
